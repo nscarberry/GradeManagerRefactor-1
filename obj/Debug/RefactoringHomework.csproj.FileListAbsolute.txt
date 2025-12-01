@@ -1,0 +1,7 @@
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\bin\Debug\RefactoringHomework.exe.config
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\bin\Debug\RefactoringHomework.exe
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\bin\Debug\RefactoringHomework.pdb
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\obj\Debug\RefactoringHomework.csproj.AssemblyReference.cache
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\obj\Debug\RefactoringHomework.csproj.CoreCompileInputs.cache
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\obj\Debug\RefactoringHomework.exe
+C:\Users\nscar\source\repos\RefactoringHomework\RefactoringHomework\obj\Debug\RefactoringHomework.pdb
